@@ -1,0 +1,13 @@
+train: C:\Users\BAB AL SAFA\Desktop\MINE\PersonalProtectiveEquipments\train\images
+val: C:\Users\BAB AL SAFA\Desktop\MINE\PersonalProtectiveEquipments\valid\images
+test: C:\Users\BAB AL SAFA\Desktop\MINE\PersonalProtectiveEquipments\test\images
+
+nc: 6
+names: ['Goggles', 'boots', 'gloves', 'helmet', 'mask', 'vest']
+
+roboflow:
+  workspace: nithesh-sanil-ppthn
+  project: ppe-detection-sjidl
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/nithesh-sanil-ppthn/ppe-detection-sjidl/dataset/2
