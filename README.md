@@ -10,6 +10,6 @@
 
         Download the zipfile or fork the repository.
         Download/install the requirements.txt file.
-        run the training.py file with
+        run the main.py file with
             python -m run main.py
         in your command line.
